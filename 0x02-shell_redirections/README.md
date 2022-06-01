@@ -1,2 +1,1 @@
-
-printing hello
+#!/bin/bash
