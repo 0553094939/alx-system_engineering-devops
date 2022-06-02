@@ -1,0 +1,21 @@
+total 68
+drwxr-xr-x 2 root root 4096 Jun  2 16:34 .
+drwxr-xr-x 6 root root  121 Jun  1 13:02 ..
+---x--x--x 1 root root   32 Jun  2 16:07 0-hello_world
+-rw-r--r-- 1 root root   21 Jun  1 14:31 0-hello_worldn
+-rwxr-xr-x 1 root root   27 Jun  1 14:03 0x02-shell_redirections
+-rwxr-xr-x 1 root root   31 Jun  2 16:10 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Jun  2 16:13 2-hellofile
+-rwxr-xr-x 1 root root   39 Jun  2 16:15 3-twofiles
+-rwxr-xr-x 1 root root   35 Jun  2 16:17 4-lastlines
+-rwxr-xr-x 1 root root   35 Jun  2 16:19 5-firstlines
+-rwxr-xr-x 1 root root   36 Jun  2 16:21 6-third_line
+-rwxr-xr-x 1 root root   99 Jun  2 16:31 7-file
+-rwxr-xr-x 1 root root   36 Jun  2 16:34 8-cwd_state
+-rwxr-xr-x 1 root root   37 Jun  1 16:51 9-duplicate_last_line
+-rw-r--r-- 1 root root   16 Jun  1 16:36 aavi
+-rw-r--r-- 1 root root   12 Jun  2 16:31 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Jun  2 16:34 ls_cwd_content
+-rw-r--r-- 1 root root   12 Jun  1 15:15 README.md
+-rw-r--r-- 1 root root   21 Jun  1 14:33 README.mdn
+-rw-r--r-- 1 root root    0 Jun  1 14:22 this script is printing hello world
